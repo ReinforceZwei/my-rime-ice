@@ -1,0 +1,4 @@
+patch:
+  "traditionalize/opencc_config": s2tw.json
+  "switches/@2/reset": 1 # traditionalization
+  "switches/@3/reset": 0 # emoji

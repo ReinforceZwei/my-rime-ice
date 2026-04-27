@@ -1,0 +1,3 @@
+patch:
+  # Make all windows shares same ascii mode state
+  global_ascii: true
